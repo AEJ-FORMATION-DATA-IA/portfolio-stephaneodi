@@ -1,0 +1,157 @@
+.oasl_display-flex {
+    display: flex;
+}
+
+.oasl_list-style-none {
+    list-style: none;
+}
+
+.oasl_display-inline {
+    display: inline;
+}
+
+.oasl_justify-content {
+    justify-content: space-between;
+}
+
+.oasl_margin-20px {
+    margin: 5px;
+}
+
+.oasl_background-color-212529{
+    background-color: #212529;
+}
+
+.oasl_justify-content-space-around {
+    justify-content: space-around;
+}
+
+.oasl_width-210px {
+    width: 210px;
+}
+
+.oasl_height-395px {
+    height: 300px;
+}
+
+.oasl_align-items-center {
+    align-items: center;
+}
+
+.oasl_border-raduis {
+    border-radius: 35%;
+}
+
+.oasl_height-350px {
+    height: 350px;
+}
+
+.oasl_margin-top-15px {
+    margin-top: 30px;
+}
+
+/*Fin de la partie accueil et à propos*/
+
+/*Début de la partie ompétence */
+
+.oasl_text-align-center {
+    text-align: center;
+}
+
+.oasl_background-color-F3F0F0 {
+    background-color: #f3f0f0;
+}
+
+.oasl_display-grid {
+    display: grid;
+}
+
+.oasl_grid-template-colomns-1fr {
+    grid-template-columns: 1fr 1fr 0.7fr;
+}
+
+.oasl_height-200px {
+    height: 200px;
+}
+
+.oasl_padding-40px {
+    padding: 40px;
+}
+
+
+/**/
+
+.oasl_gtc-2fr {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.oasl_row-gap-20px {
+    row-gap: 20px;
+}
+
+/*Footer*/
+
+.oasl_height-30px {
+    height: 30px;
+}
+
+.oasl_width-100 {
+    width: 100%;
+}
+
+.oasl_jcsa {
+    justify-content: space-around;
+}
+
+.oasl_tac {
+    text-align: center;
+}
+
+.oasl_padding-70px {
+    padding: 60px;
+}
+
+.oasl_padding-10px {
+    padding: 10px;
+}
+
+.oasl_resize-none {
+    resize: none;
+}
+
+.oasl_ml-100px {
+    margin-left: 100px;
+}
+
+.oasl_width-80px {
+    width: 120px;
+}
+
+.oasl_color {
+    color: white;
+}
+
+.oasl_width-40px {
+    width: 60px;
+}
+
+.oasl_width-30px {
+    width: 30px;
+}
+
+.oasl_padding-20px {
+    padding: 5px 30px;
+}
+
+.oasl_border-raduis {
+    border-radius: 10px;
+    border:none;
+}
+
+.oasl_bgc-orange {
+    background-color: orangered;
+}
+
+.oasl_width-90px {
+    width: 140px;
+}
